@@ -20,6 +20,7 @@ interests:
 - Cardio complications among systemic sclerosis patients
 - Cancer survival
 - Supernatural beliefs in patients management
+- Real world evidence
 
 education:
   courses:
@@ -37,16 +38,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "".
 - icon: twitter
   icon_pack: fab
   link: 
 - icon: google-scholar
   icon_pack: ai
   link: 
-- icon: github
-  icon_pack: fab
-  link: 
+ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Zihan, currently a final year Master student majored in Epidemiology. During my Master study, I have taken several professional courses such as epidemiology, basic/advanced biostatistics, meta-analysis and systematic review etc. Using my extracurricular time, I have taken NIH Clinical Research training courses, also got the base programming specialist certificate in SAS. During my Bachelor education majored in public health, I have been involved in various epidemiologic projects using different statistical analysis strategies (e.g. Cox regression, piecewise linear regression) and types of data (e.g. large cohort database, medical record, laboratory data). Besides, I was also afforded opportunities to give oral presentation in international conferences and publish academic work.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have specific study interests in clinical and pharmaco- epidemiology. Here, I would like to share epidemiology study resources and my own study insights :-)
