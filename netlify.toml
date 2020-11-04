@@ -8,12 +8,24 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+  
+[context.split1]
+command = "hugo --enableGitInfo"
 
 [context.deploy-preview]
-  command = "hugo"
+  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
+  
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.75.1"
 
 [context.branch-deploy]
-  command = "hugo"
+  command = "hugo -b $DEPLOY_PRIME_URL"
+  
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.75.1"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
 
 [[headers]]
   for = "*.webmanifest"
@@ -24,3 +36,4 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
