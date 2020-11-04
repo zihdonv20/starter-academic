@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Zihan, currently a final year Master student majored in Epidemiology. During my Master study, I have taken several professional courses such as epidemiology, basic/advanced biostatistics, meta-analysis and systematic review etc. Using my extracurricular time, I have taken NIH Clinical Research training courses, also got the base programming specialist certificate in SAS. During my Bachelor education majored in public health, I have been involved in various epidemiologic projects using different statistical analysis strategies (e.g. Cox regression, piecewise linear regression) and types of data (e.g. large cohort database, medical record, laboratory data). Besides, I was also afforded opportunities to give oral presentation in international conferences and publish academic work.
+My name is Zihan, currently a final year Master student majored in Epidemiology. During my Master and Bachelor study, I have been involved in various epidemiologic projects using different statistical analysis strategies (e.g. Cox regression, piecewise linear regression) and types of data (e.g. large cohort database, medical record, laboratory data). Besides, I was also afforded opportunities to give oral presentation in international conferences and publish academic work.
 
 I have specific study interests in clinical and pharmaco- epidemiology. Here, I would like to share epidemiology study resources and my own study insights :-)
