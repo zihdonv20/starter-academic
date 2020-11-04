@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "X"
   company_url = "X"
   location = "X"
-  date_start = "09.02.2020"
-  date_end = "09.01.2020"
+  date_start = "Jan 2006"
+  date_end = "Jan 2006"
   description = """
   Responsibilities include:
   
